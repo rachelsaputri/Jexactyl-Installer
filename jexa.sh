@@ -1,4 +1,4 @@
-
+#!/bin/bash
 clear
 echo "Masukkan Password VPS"
 cd /var/www/pterodactyl
