@@ -1,5 +1,5 @@
-```
+```bash
 
-bash <(curl -s https://raw.githubusercontent.com/wffzy/Jexactyl-installer/main/jexa.sh)
+wget https://raw.githubusercontent.com/wffzy/Jexactyl-installer/main/jexa.sh && bash jexa.sh
 
 ```
